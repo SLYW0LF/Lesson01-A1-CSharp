@@ -1,0 +1,9 @@
+c:\users\me\documents\visual studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\bin\Debug\Lesson01-A1-CSharp.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\bin\Debug\Lesson01-A1-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\bin\Debug\Lesson01-A1-CSharp.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01-A1-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01_A1_CSharp.Lesson01_A1.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01_A1_CSharp.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01-A1-CSharp.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01-A1-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson01-A1-CSharp\Lesson01-A1-CSharp\obj\Debug\Lesson01-A1-CSharp.pdb
